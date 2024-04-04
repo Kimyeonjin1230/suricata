@@ -24,8 +24,12 @@ alert tcp any any -> any 80 (msg:"[qt.io](http://qt.io/) access"; content:"GET /
 
 /etc/suricata
 
+![image](https://github.com/Kimyeonjin1230/suricata/assets/114148238/89a172c5-eb00-407a-9f4f-141c57795fe8)
+
 
 `/var/log/suricata`
+![image](https://github.com/Kimyeonjin1230/suricata/assets/114148238/67b53744-1bcc-4716-92a1-0d73efec8c5b)
+
 
 `cat fast.log`
 
