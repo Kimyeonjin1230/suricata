@@ -23,7 +23,6 @@ alert tcp any any -> any 80 (msg:"[qt.io](http://qt.io/) access"; content:"GET /
 아까 test.rules에 추가했던 게 [gilgil.net](http://gilgil.net/) , [netflix.com](http://netflix.com/), [qt.io](http://qt.io/) 이기 때문에 브라우저에서 링크 열기
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/154b5fcc-07bb-447a-a5f5-20c4f38fd5d1/a9db368e-23f6-4e7a-8d90-ac2ba8f5c9fa/Untitled.png)
-
 /etc/suricata
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/154b5fcc-07bb-447a-a5f5-20c4f38fd5d1/1398f622-dd3c-4c16-a782-457f6f35e4e1/Untitled.png)
